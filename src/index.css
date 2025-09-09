@@ -1,0 +1,74 @@
+.size{
+  font-size: 1rem;
+}
+.w-20{
+  width: 20%;
+}
+.w-30{
+  width: 30%;
+}
+.insta-text{
+  width: 120px;
+}
+.bi{
+  margin-right: 10px;
+}
+.story-bg{
+  height: 80px;
+  border-bottom: 2px dotted black;
+}
+.poster{
+  width: 300px;
+  margin-bottom: 5px;
+}
+.dp{
+  height: 25px;
+  margin-right: 5px;
+}
+.user{
+  margin-top: 2px;
+}
+.bord{
+  border-right: 1.5px solid rgb(74, 73, 73);
+}
+.w-85{
+  width: 90%;
+}
+.mb-70{
+  margin-bottom: 20px;
+}
+.story-post{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.story-back{
+  width: 55px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg ,purple,rgb(243, 136, 23),yellow);
+}
+.story-view{
+  object-fit: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.story-content{
+  height: 100vh;
+}
+.arrow{
+  color:rgb(206, 200, 20);
+  font-size: xx-large;
+}
+.bi-arrow-left-circle-fill{
+  position: fixed;
+  left: 30px;
+}
+.bi-arrow-right-circle-fill{
+  position: fixed;
+  right: 30px;
+}
