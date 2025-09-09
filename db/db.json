@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "msdhoni",
+      "profilePic": "src/assets/profile1.jpeg",
+      "imageUrl": "src/assets/post1.jpg",
+      "caption": "Training hard 💪 #cricket",
+      "likes": 1200,
+      "comments": [
+        {
+          "id": 1,
+          "username": "fan01",
+          "text": "Legend 🔥"
+        },
+        {
+          "id": 2,
+          "username": "fan02",
+          "text": "Always our Captain 😍"
+        }
+      ],
+      "createdAt": "2025-08-25T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "username": "viratkohli",
+      "imageUrl": "src/assets/post2.jpg",
+      "profilePic": "src/assets/profile2.jpeg",
+      "caption": "Match day focus 🏏🔥",
+      "likes": 2500,
+      "comments": [
+        {
+          "id": 1,
+          "username": "fan03",
+          "text": "Run machine 🔥🔥"
+        }
+      ],
+      "createdAt": "2025-08-25T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "username": "rohithsharma",
+      "imageUrl": "src/assets/post3.jpg",
+      "profilePic": "src/assets/profile3.jpeg",
+      "caption": "Family time ❤️",
+      "likes": 1800,
+      "comments": [
+        {
+          "id": 1,
+          "username": "fan04",
+          "text": "Hitman with family 🥰"
+        }
+      ],
+      "createdAt": "2025-08-26T08:00:00Z"
+    },
+    {
+      "id": 4,
+      "username": "hardikpandya",
+      "imageUrl": "src/assets/post4.jpg",
+      "profilePic": "src/assets/profile4.jpeg",
+      "caption": "Chilling with the boys 😎",
+      "likes": 900,
+      "comments": [
+        {
+          "id": 1,
+          "username": "fan05",
+          "text": "Cool vibes 🔥"
+        }
+      ],
+      "createdAt": "2025-08-26T09:30:00Z"
+    },
+    {
+      "id": 5,
+      "username": "surya",
+      "imageUrl": "src/assets/post5.jpg",
+      "profilePic": "src/assets/profile5.jpeg",
+      "caption": "Sky is the limit 💫",
+      "likes": 1500,
+      "comments": [
+        {
+          "id": 1,
+          "username": "fan06",
+          "text": "Mr. 360 🔥"
+        }
+      ],
+      "createdAt": "2025-08-26T11:00:00Z"
+    }
+  ],
+  "profile": {
+    "username": "abhishek_thirumalaiah",
+    "profilePic": "src/assets/profile1.jpeg"
+  },
+  "sugest": [
+    {
+      "id": 1,
+      "username": "msdhoni",
+      "profilePic": "src/assets/profile1.jpeg"
+    },
+    {
+      "id": 2,
+      "username": "thiru_malai",
+      "profilePic": "src/assets/profile2.jpeg"
+    },
+    {
+      "id": 3,
+      "username": "mani_kandan'_'",
+      "profilePic": "src/assets/profile3.jpeg"
+    },
+    {
+      "id": 4,
+      "username": "liki",
+      "profilePic": "src/assets/profile4.jpeg"
+    },
+    {
+      "id": 5,
+      "username": "rohit_sharmaaa",
+      "profilePic": "src/assets/profile5.jpeg"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "username": "msdhoni",
+      "profilePic": "src/assets/profile1.jpeg",
+      "imageUrl": "src/assets/story1.png"
+    },
+    {
+      "id": 2,
+      "username": "viratkohli",
+      "imageUrl": "src/assets/post1.jpg",
+      "profilePic": "src/assets/profile2.jpeg"
+    },
+    {
+      "id": 3,
+      "username": "rohithsharma",
+      "imageUrl": "src/assets/post5.jpg",
+      "profilePic": "src/assets/profile3.jpeg"
+    },
+    {
+      "id": 4,
+      "username": "hardikpandya",
+      "imageUrl": "src/assets/story2.png",
+      "profilePic": "src/assets/profile4.jpeg"
+    },
+    {
+      "id": 5,
+      "username": "surya",
+      "imageUrl": "src/assets/story3.png",
+      "profilePic": "src/assets/profile5.jpeg"
+    }
+  ]
+}
